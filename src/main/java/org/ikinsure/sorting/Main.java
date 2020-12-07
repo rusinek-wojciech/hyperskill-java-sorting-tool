@@ -1,4 +1,4 @@
-package org.ikinsure.hard.sorting;
+package org.ikinsure.sorting;
 import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.*;
